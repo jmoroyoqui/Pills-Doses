@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\Pills-Doses\\PillsDoses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F81664-AEAF-4309-A3D2-B7DE9A8FE438}|PillsDoses\\PillsDoses.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\pills-doses\\pillsdoses\\pillsdoses\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37F81664-AEAF-4309-A3D2-B7DE9A8FE438}|PillsDoses\\PillsDoses.csproj|solutionrelative:pillsdoses\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\Pills-Doses\\PillsDoses\\PillsDoses\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PillsDoses\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\Pills-Doses\\PillsDoses\\PillsDoses\\MainPage.xaml",
+              "RelativeToolTip": "PillsDoses\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T17:58:44.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
