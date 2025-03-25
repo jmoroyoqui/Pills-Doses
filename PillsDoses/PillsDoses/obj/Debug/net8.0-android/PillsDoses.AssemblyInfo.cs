@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PillsDoses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6a5c5cc2074466d58380983225a2a863fbb06b8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+405c3edbb19dee6d3b5ee6c26578b5c6795cd7d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PillsDoses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PillsDoses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,4 @@
+C:\Users\JulioMoroyoqui\Documents\GitHub\Pills-Doses\PillsDoses\PillsDoses\bin\Release\net8.0-android\publish\com.companyname.pillsdoses-Signed.aab
+C:\Users\JulioMoroyoqui\Documents\GitHub\Pills-Doses\PillsDoses\PillsDoses\bin\Release\net8.0-android\publish\com.companyname.pillsdoses.aab
+C:\Users\JulioMoroyoqui\Documents\GitHub\Pills-Doses\PillsDoses\PillsDoses\bin\Release\net8.0-android\publish\com.companyname.pillsdoses-Signed.apk
+C:\Users\JulioMoroyoqui\Documents\GitHub\Pills-Doses\PillsDoses\PillsDoses\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll
