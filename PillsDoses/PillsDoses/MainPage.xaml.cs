@@ -58,33 +58,21 @@
         
         private void Calculate(int pills)
         {
-            int dosesCount = 0;
-            double quarters = 0;
-            double halves = 0;
+            int totalQuarters = pills * 4;
 
-            double dose = 0.75;
-            double total = 0.0;
+            int dose = totalQuarters / 3;
+            int remainer = totalQuarters % 3;
 
-            while(total < pills)
-            {
-                if ((total + dose) > pills) break;
+            int halves = dose;
+            int quarters = dose;
 
-                total += dose;
-                dosesCount++;
-                quarters++;
-                halves++;
-            }
-
-
-
-            double remainer = pills - total;
-            int totalHalves = (int)Math.Ceiling(halves / 2);
-            int totalQuarters = (int)Math.Ceiling(quarters / 4);
             string nl = Environment.NewLine;
-            Result.Text = $"Total doses: {dosesCount}" +
-                $"{nl}{totalHalves} pills to create: {halves} halves" +
-                $"{nl}{totalQuarters} pills to create: {quarters} quarters" +
-                $"{nl}Remainer: {remainer / 0.25} quarters";
+            
+            Result.Text = $"Total pills: {pills}" +
+                $"{nl}Total doses (3/4): {dose}" +
+                $"{nl}Halves needed: {halves}" +
+                $"{nl}Quarters needed: {quarters}" +
+                $"{nl}Remaining: {remainer}";
             Result.IsVisible = true;
         }
     }
